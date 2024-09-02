@@ -13,7 +13,7 @@ Seasoned cybersecurity professional with extensive expertise across diverse doma
 - **Compliance & Audits:** CIS v8, SOC 2, GDPR, ISO 27001, PCI DSS
 - **Cloud Security:** Microsoft 365, Apple Business Essentials
 - **Programming Languages:** Python, Golang, PowerShell
-- **Tools:** Wireshark, Burp Suite Professional, pfSense, Snort, Nmap, Metasploit, Kali Linux, Nessus, Nikto, Splunk, John the Ripper
+- **Tools:** Wireshark, Burp Suite Professional, pfSense, Snort, Nmap, Metasploit, Kali Linux, Nessus
 - **Incident Response & Recovery** Microsoft Defender, Microsoft Sentinel
 - **Identity Access Management** Microsoft Azure Active Directory, Microsoft Entra ID
 
