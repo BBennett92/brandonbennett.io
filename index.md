@@ -14,7 +14,7 @@ Seasoned cybersecurity professional with extensive expertise across diverse doma
 - **Cloud Security:** Microsoft 365, Apple Business Essentials
 - **Programming Languages:** Python, Golang, PowerShell
 - **Tools:** Wireshark, Burp Suite Professional, pfSense, Snort, Nmap, Metasploit, Kali Linux, Nessus
-- **Incident Response & Recovery** Microsoft Defender, Microsoft Sentinel
+- **Incident Response & Recovery** Microsoft Defender, Microsoft Sentinel, Jira
 - **Identity Access Management** Microsoft Azure Active Directory, Microsoft Entra ID
 
 ### **Experience**
