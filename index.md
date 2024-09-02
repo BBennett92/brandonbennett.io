@@ -4,18 +4,18 @@ layout: default
 
 ### **About Me**
 
-I am a seasoned Cybersecurity Engineer with extensive expertise across diverse domains of cybersecurity and information security. My experience spans system administration, penetration testing, and IT support, with a strong focus on delivering robust security solutions and ensuring seamless operations. I specialize in cloud security, compliance management, and have a proven track record of helping organizations achieve successful audits and certifications.
+Seasoned cybersecurity professional with extensive expertise across diverse domains of cybersecurity and information security. Proven track record in delivering system administration, penetration testing, and IT support services to a broad client base, ensuring robust security and seamless operations. Expert in documenting and implementing compliance controls for CIS v8, SOC 2, GDPR, ISO 27001, and PCI DSS, resulting in successful audits and certifications. Specializes in cloud security and systems administration with proficiency in Microsoft 365 and Apple Business Essentials. Skilled in conducting REST API and GraphQL web application penetration testing, identifying vulnerabilities, and fortifying clients' security posture.
 
 ### **Skills**
 
-- **Systems Administration:** Windows, Linux, MacOS
+- **Systems Administration:** Windows, Linux, MacOS, Android, iOS
 - **Penetration Testing:** REST API, GraphQL, Web Applications
 - **Compliance & Audits:** CIS v8, SOC 2, GDPR, ISO 27001, PCI DSS
 - **Cloud Security:** Microsoft 365, Apple Business Essentials
-- **Programming Languages:** Python, Golang
-- **Tools:** Wireshark, Burp Suite Professional, pfSense Firewall & Snort IDS
-- **Incident Response & Recovery**
-- **Identity Access Management**
+- **Programming Languages:** Python, Golang, PowerShell
+- **Tools:** Wireshark, Burp Suite Professional, pfSense, Snort, Nmap, Metasploit, Kali Linux, Nessus, Nikto, Splunk, John the Ripper
+- **Incident Response & Recovery** Microsoft Defender, Microsoft Sentinel
+- **Identity Access Management** Microsoft Azure Active Directory, Microsoft Entra ID
 
 ### **Experience**
 
