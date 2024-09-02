@@ -2,6 +2,73 @@
 layout: default
 ---
 
+### **About Me**
+
+I am a seasoned Cybersecurity Engineer with extensive expertise across diverse domains of cybersecurity and information security. My experience spans system administration, penetration testing, and IT support, with a strong focus on delivering robust security solutions and ensuring seamless operations. I specialize in cloud security, compliance management, and have a proven track record of helping organizations achieve successful audits and certifications.
+
+### **Skills**
+
+- **Systems Administration:** Windows, Linux, MacOS
+- **Penetration Testing:** REST API, GraphQL, Web Applications
+- **Compliance & Audits:** CIS v8, SOC 2, GDPR, ISO 27001, PCI DSS
+- **Cloud Security:** Microsoft 365, Apple Business Essentials
+- **Programming Languages:** Python, Golang
+- **Tools:** Wireshark, Burp Suite Professional, pfSense Firewall & Snort IDS
+- **Incident Response & Recovery**
+- **Identity Access Management**
+
+### **Experience**
+
+#### **Security Overview (Aug 2023 – July 2024)**
+**Role:** Cybersecurity Analyst
+
+- Managed a secure cloud environment using Microsoft 365 and Apple Business Essentials.
+- Provided comprehensive IT support, managing client endpoints and inboxes.
+- Conducted contract-based and quarterly penetration tests, including REST API and GraphQL web applications.
+- Implemented compliance controls for CIS v8, SOC 2, PCI DSS, GDPR, and ISO 27001, leading to successful client audits and certifications.
+
+#### **Proof of Reception (May 2023 – Present)**
+**Role:** Prompt Engineer (Part-time Internship)
+
+- Utilized AI to enhance code and build applications, leveraging tools such as ChatGPT, Google Bard, and DALL-E.
+- Analyzed and optimized code, remediated vulnerabilities, and improved overall application security.
+- Collaborated in a cross-functional team environment, contributing to the software development lifecycle (SDLC).
+
+### **Education**
+
+#### **Woz-U, Cybersecurity**
+- **GPA:** 4.0
+- A comprehensive program focused on both theoretical and practical aspects of cybersecurity.
+
+### **Certifications**
+
+- Woz-U Cybersecurity Certificate of Completion
+- Google IT Support Professional
+- IBM IT Support Professional
+- IBM Cybersecurity Analyst Professional
+- (ISC)² Certified in Cybersecurity
+- Level 1 Intelligence Analyst Certification
+
+### **Projects**
+
+#### **Acronomicon**
+- A Python project designed to help individuals studying for information security or cybersecurity-related certifications by quizzing them on common acronyms.
+
+#### **cyberPUNKED**
+- A Python 'ping' script similar to 'netdiscover' or 'nmap' with additional functionality to improve network scanning capabilities.
+
+#### **Signal Squirrel**
+- A Python script that converts text to Morse code, Base64, and binary, and vice versa, with a user-friendly graphical interface using Tkinter.
+
+#### **The Office: Doomsday Device CTF Walkthrough**
+- A comprehensive Capture the Flag (CTF) walkthrough project based on the TV show "The Office," demonstrating various penetration testing techniques.
+
+### **Contact Me**
+
+Feel free to reach out to me if you'd like to discuss cybersecurity opportunities or any of the projects I've worked on. You can contact me via email or connect with me on [LinkedIn](https://www.linkedin.com/in/brandon-bennett~/).
+
+---
+
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
