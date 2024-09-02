@@ -4,7 +4,7 @@ layout: default
 
 ### **About Me**
 
-Seasoned cybersecurity professional with extensive expertise across diverse domains of cybersecurity and information security. Proven track record in delivering system administration, penetration testing, and IT support services to a broad client base, ensuring robust security and seamless operations. Expert in documenting and implementing compliance controls for CIS v8, SOC 2, GDPR, ISO 27001, and PCI DSS, resulting in successful audits and certifications. Specializes in cloud security and systems administration with proficiency in Microsoft 365 and Apple Business Essentials. Skilled in conducting REST API and GraphQL web application penetration testing, identifying vulnerabilities, and fortifying clients' security posture.
+Experienced cybersecurity professional with extensive expertise across various domains of cybersecurity and information security. Proven track record in delivering systems administration, penetration testing, and IT support services to a broad client base, ensuring robust security and seamless operations. Proficient in documenting and implementing compliance controls for CIS v8, SOC 2, GDPR, ISO 27001, and PCI DSS, resulting in successful audits and certifications. Specializes in cloud security and systems administration with proficiency in Microsoft 365 and Apple Business Essentials. Skilled in conducting REST API and GraphQL web application penetration testing, identifying vulnerabilities, and fortifying clients' security posture.
 
 ### **Skills**
 
@@ -16,15 +16,16 @@ Seasoned cybersecurity professional with extensive expertise across diverse doma
 - **Tools:** Wireshark, Burp Suite Professional, pfSense, Snort, Nmap, Metasploit, Kali Linux, Nessus
 - **Incident Response & Recovery** Microsoft Defender, Microsoft Sentinel, Jira
 - **Identity Access Management** Microsoft Azure Active Directory, Microsoft Entra ID
+- **Automation** Python, Golang, PowerShell
 
 ### **Experience**
 
 #### **Security Overview (Aug 2023 – July 2024)**
 **Role:** Cybersecurity Analyst, Penetration Tester, Systems Administrator
 
-- Delivered system administration, penetration testing, and IT/technical support services to multiple clients, ensuring secure and efficient operations.
-- Managed client endpoints and inboxes through Microsoft 365 (Azure AD/Entra ID, Intune, Exchange, SharePoint) and Apple Business Essentials, optimizing productivity and security.
-- Conducted contract-based and quarterly penetration tests, including REST API and GraphQL web applications, identifying vulnerabilities and enhancing clients' security postures.
+- Delivered comprehensive systems administration, penetration testing, and IT support across Windows, Linux, macOS, iOS, and Android platforms, ensuring secure and efficient operations. Implemented security best practices and resolved hardware/software issues to protect client systems from emerging threats.
+- Managed client endpoints and inboxes with Microsoft 365 (including Azure AD, Intune, Exchange, SharePoint, OneDrive, Defender, Teams) and Apple Business Essentials, including the creation, management, and deletion of user accounts. Enhanced productivity and security by implementing SAML/SSO, geo-location blacklisting, and Multi-factor Authentication (MFA) for secure sign-ins.
+- Conducted contract-based and quarterly penetration tests, including REST API and GraphQL web applications, identifying vulnerabilities and enhancing clients' security postures. Leveraged OWASP Top 10 as a framework to identify 30+ server/client-side vulnerabilities, including DOM-based, stored, and reflected XSS, NoSQL injections, broken access controls (e.g., CSRF, open redirect, improper access controls), and other security misconfigurations.
 - Implemented compliance controls for CIS v8, SOC 2, PCI DSS, GDPR, and ISO 27001, leading to successful client audits and certifications. Strengthened cloud environments with data loss prevention and conditional access policies.
 
 #### **Proof of Reception (May 2023 – Present)**
@@ -39,7 +40,7 @@ Seasoned cybersecurity professional with extensive expertise across diverse doma
 
 #### **Woz-U, Cybersecurity**
 - **GPA:** 4.0
-- Comprehensive cybersecurity program offered by Woz-U designed to equip individuals with the knowledge, skills, and practical experience necessary to thrive in the rapidly evolving field of cybersecurity.
+- Completed a comprehensive cybersecurity program, gaining in-depth knowledge and hands-on experience in areas such as penetration testing, cloud security, compliance frameworks (CIS v8, SOC 2, GDPR, ISO 27001, PCI DSS), and incident response. Excelled in practical labs and projects, developing advanced skills in network security, vulnerability assessment, and secure systems administration.
 
 ### **Certifications**
 
