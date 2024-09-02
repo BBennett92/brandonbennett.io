@@ -20,25 +20,26 @@ Seasoned cybersecurity professional with extensive expertise across diverse doma
 ### **Experience**
 
 #### **Security Overview (Aug 2023 – July 2024)**
-**Role:** Cybersecurity Analyst
+**Role:** Cybersecurity Analyst, Penetration Tester, Systems Administrator
 
-- Managed a secure cloud environment using Microsoft 365 and Apple Business Essentials.
-- Provided comprehensive IT support, managing client endpoints and inboxes.
-- Conducted contract-based and quarterly penetration tests, including REST API and GraphQL web applications.
-- Implemented compliance controls for CIS v8, SOC 2, PCI DSS, GDPR, and ISO 27001, leading to successful client audits and certifications.
+- Delivered system administration, penetration testing, and IT/technical support services to multiple clients, ensuring secure and efficient operations.
+- Managed client endpoints and inboxes through Microsoft 365 (Azure AD/Entra ID, Intune, Exchange, SharePoint) and Apple Business Essentials, optimizing productivity and security.
+- Conducted contract-based and quarterly penetration tests, including REST API and GraphQL web applications, identifying vulnerabilities and enhancing clients' security postures.
+- Implemented compliance controls for CIS v8, SOC 2, PCI DSS, GDPR, and ISO 27001, leading to successful client audits and certifications. Strengthened cloud environments with data loss prevention and conditional access policies.
 
 #### **Proof of Reception (May 2023 – Present)**
 **Role:** Prompt Engineer (Part-time Internship)
 
-- Utilized AI to enhance code and build applications, leveraging tools such as ChatGPT, Google Bard, and DALL-E.
-- Analyzed and optimized code, remediated vulnerabilities, and improved overall application security.
-- Collaborated in a cross-functional team environment, contributing to the software development lifecycle (SDLC).
+- Software Development Lifecycle (SDLC) experience, ability to collaborate and communicate and work effectively in a cross-functional team environment.
+- Analyze code, remediate vulnerabilities, and improve overall application security.
+- Optimize existing code, write new functions, and create artwork utilizing prompts using various large language models such as GPT-4, PaLM 2 and StableLM.
+- Tools: ChatGPT, Google Bard, DALL-E, Stable Diffusion, Microsoft Copilot
 
 ### **Education**
 
 #### **Woz-U, Cybersecurity**
 - **GPA:** 4.0
-- A comprehensive program focused on both theoretical and practical aspects of cybersecurity.
+- Comprehensive cybersecurity program offered by Woz-U designed to equip individuals with the knowledge, skills, and practical experience necessary to thrive in the rapidly evolving field of cybersecurity.
 
 ### **Certifications**
 
@@ -48,6 +49,10 @@ Seasoned cybersecurity professional with extensive expertise across diverse doma
 - IBM Cybersecurity Analyst Professional
 - (ISC)² Certified in Cybersecurity
 - Level 1 Intelligence Analyst Certification
+- TryHackMe Advent of Cyber 2023
+- The Complete Social Engineering, Phishing, OSINT, & Malware Certification
+- Forensic Accounting and Fraud Examination
+- OpenAI, GPT, ChatGPT, and DALL-E Masterclass
 
 ### **Projects**
 
@@ -65,7 +70,9 @@ Seasoned cybersecurity professional with extensive expertise across diverse doma
 
 ### **Contact Me**
 
-Feel free to reach out to me if you'd like to discuss cybersecurity opportunities or any of the projects I've worked on. You can contact me via email or connect with me on [LinkedIn](https://www.linkedin.com/in/brandon-bennett~/).
+Feel free to reach out to me if you'd like to discuss cybersecurity opportunities or any of the projects I've worked on. You can contact me via email or connect with me on LinkedIn using the links below.
+[LinkedIn](https://www.linkedin.com/in/brandon-bennett~/)
+[Email](bb.sec.op@protonmail.com)
 
 ---
 
