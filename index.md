@@ -62,6 +62,8 @@ Experienced cybersecurity professional with extensive expertise across various d
 #### **Microsoft Sentinel SIEM Deployment and Security Operations Center (SOC) Project**
 **Description:** Designed and implemented a Security Operations Center (SOC) using Microsoft Azure, focusing on real-time threat detection and incident response.
 
+![SentinelSIEM](images/azuresiem.gif)
+
 **Key Components:**
 
 - **Azure Virtual Machine Setup:** Deployed and configured a Windows-based virtual machine with RDP access for monitoring purposes.
