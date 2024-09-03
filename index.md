@@ -16,7 +16,7 @@ Experienced cybersecurity professional with extensive expertise across various d
 - **Tools:** Wireshark, Burp Suite Professional, pfSense, Snort, Nmap, Metasploit, Kali Linux, Nessus
 - **Incident Response & Recovery** Microsoft Defender, Microsoft Sentinel, Jira
 - **Identity Access Management** Microsoft Azure Active Directory, Microsoft Entra ID
-- **Automation** Python, Golang, PowerShell
+- **Automation & Scripting** Python, Golang, PowerShell
 
 ### **Experience**
 
