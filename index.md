@@ -54,6 +54,7 @@ Experienced cybersecurity professional with extensive expertise across various d
 - The Complete Social Engineering, Phishing, OSINT, & Malware Certification
 - Forensic Accounting and Fraud Examination
 - OpenAI, GPT, ChatGPT, and DALL-E Masterclass
+  
 [![Certifications](images/ezgif-1-60b00daf79.gif)]
 
 ### **Projects**
