@@ -68,8 +68,8 @@ Experienced cybersecurity professional with extensive expertise across various d
 
 #### **The Office: Doomsday Device CTF Walkthrough**
 - A comprehensive Capture the Flag (CTF) walkthrough project based on the TV show "The Office," demonstrating various penetration testing techniques.
-[![Doomsday Device](https://github.com/BBennett92/brandonbennett.io/blob/main/images/Screenshot%202024-09-02%20191301.png)
-[![The Office: Doomsday Device](https://github.com/BBennett92/brandonbennett.io/blob/main/images/Screenshot%202024-09-02%20191301.png)](https://github.com/BBennett92/brandonbennett.io/blob/main/images/doomsdayproject.pdf)
+
+[![The Office: Doomsday Device](doomsday.png)](https://github.com/BBennett92/brandonbennett.io/blob/main/images/doomsdayproject.pdf)
 
 ### **Contact Me**
 
