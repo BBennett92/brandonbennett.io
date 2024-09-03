@@ -76,7 +76,8 @@ Experienced cybersecurity professional with extensive expertise across various d
 ### **Contact Me**
 
 Feel free to reach out to me if you'd like to discuss cybersecurity opportunities or any of the projects I've worked on. You can contact me via email or connect with me on LinkedIn using the links provided below.
-- [LinkedIn](https://www.linkedin.com/in/brandon-bennett~/)
+
+- [![LinkedIn](images/icons8-linkedin-32.png)](https://www.linkedin.com/in/brandon-bennett~/)
 - [Email](mailto:bb.sec.op@protonmail.com)
 
 ---
