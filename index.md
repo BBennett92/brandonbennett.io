@@ -64,14 +64,37 @@ Description: Designed and implemented a Security Operations Center (SOC) using M
 
 **Key Components:**
 
-- Azure Virtual Machine Setup: Deployed and configured a Windows-based virtual machine with RDP access for monitoring purposes.
-- SIEM Implementation: Integrated Microsoft Sentinel as a SIEM solution to collect, analyze, and monitor security event logs.
-- Threat Intelligence Integration: Configured a threat intelligence feed to detect and generate alerts for Indicators of Compromise (IoCs).
-- Event Logging and Alert Configuration: Established data connectors and created custom alert rules to monitor successful RDP sign-ins and other critical security events.
-- Practical Experience: Gained hands-on experience with real-time security monitoring, incident detection, and response within a simulated environment.
-- **Technologies Used: Microsoft Azure, Microsoft Sentinel, Log Analytics, Windows Server.**
+- **Azure Virtual Machine Setup:** Deployed and configured a Windows-based virtual machine with RDP access for monitoring purposes.
+
+- **SIEM Implementation:** Integrated Microsoft Sentinel as a SIEM solution to collect, analyze, and monitor security event logs.
+
+- **Threat Intelligence Integration:** Configured a threat intelligence feed to detect and generate alerts for Indicators of Compromise (IoCs).
+
+- **Event Logging and Alert Configuration:** Established data connectors and created custom alert rules to monitor successful RDP sign-ins and other critical security events.
+
+- **Practical Experience:** Gained hands-on experience with real-time security monitoring, incident detection, and response within a simulated environment.
+
+- ##### **Technologies Used:** Microsoft Azure, Microsoft Sentinel, Log Analytics, Windows Server.
+
+
+#### **The Office: Doomsday Device CTF Walkthrough**
+Description: Conducted a comprehensive walkthrough of the CTF vulnerable machine "The Office: Doomsday Device," focusing on penetration testing, exploitation, and privilege escalation.
 
 [![The Office: Doomsday Device](doomsday.png)](https://github.com/BBennett92/brandonbennett.io/blob/main/images/doomsdayproject.pdf)
+
+**Key Components:**
+
+- **Reconnaissance & Information Gathering:** Utilized Nmap and netdiscover for initial network scanning to identify open ports and active services. Employed Gobuster and FFuF for directory and file enumeration, while leveraging Signal Squirrel to decode the messages encoded in morse code.
+
+- **Vulnerability Analysis:** Analyzed service vulnerabilities using nmap & Wireshark. Inspected ".pcap" files with Wireshark to pinpoint the username and password found in cleartext.
+
+- **Exploitation:** Exploited the identified vulnerabilities using a combination of creedGEN and hydra to brute force entry into the FTP service. Utlized Burp Suite to exploit the Koken CMS using a PHP reverse shell via a arbitrary file upload vulnerability using an image and connecting via netcat, leading to unauthorized access and a foothold on the machine.
+
+- **Privilege Escalation:** Unlocked the SSH port using Knock. Leveraged SSH2John to crack the SSH key, and spawned an interactive shell resulting in privledge escalation. Uploaded "defuse.sh" bash script, resulting in earning the 8th and final flag.
+
+- **Post-Exploitation & Reporting:** Secured sensitive data, maintained access, and documented the entire process with remediation steps and security recommendations.
+
+- **Technologies Used:** Nmap, netdiscover, FFuF, Signal Squirrel, Burp Suite, creedGEN, Wireshark, MySQL, netcat, Exiftool, Knock, cat, nano, Gobuster, ftp, SSH2John, JohnTheRipper, LFTP, Hydra.
 
 ### **Contact Me**
 
