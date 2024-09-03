@@ -55,7 +55,7 @@ Experienced cybersecurity professional with extensive expertise across various d
 - Forensic Accounting and Fraud Examination
 - OpenAI, GPT, ChatGPT, and DALL-E Masterclass
   
-[![Certifications](images/ezgif-1-60b00daf79.gif)]
+![Certifications](images/ezgif-1-60b00daf79.gif)
 
 ### **Projects**
 
