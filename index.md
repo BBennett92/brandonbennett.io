@@ -59,17 +59,17 @@ Experienced cybersecurity professional with extensive expertise across various d
 
 ### **Projects**
 
-#### **Acronomicon**
-- A Python project designed to help individuals studying for information security or cybersecurity-related certifications by quizzing them on common acronyms.
+#### **Microsoft Sentinel SIEM Deployment and Security Operations Center (SOC) Project**
+Description: Designed and implemented a Security Operations Center (SOC) using Microsoft Azure, focusing on real-time threat detection and incident response.
 
-#### **cyberPUNKED**
-- A Python 'ping' script similar to 'netdiscover' or 'nmap' with additional functionality to improve network scanning capabilities.
+**Key Components:**
 
-#### **Signal Squirrel**
-- A Python script that converts text to Morse code, Base64, and binary, and vice versa, with a user-friendly graphical interface using Tkinter.
-
-#### **The Office: Doomsday Device CTF Walkthrough**
-- A comprehensive Capture the Flag (CTF) walkthrough project based on the TV show "The Office," demonstrating various penetration testing techniques.
+- Azure Virtual Machine Setup: Deployed and configured a Windows-based virtual machine with RDP access for monitoring purposes.
+- SIEM Implementation: Integrated Microsoft Sentinel as a SIEM solution to collect, analyze, and monitor security event logs.
+- Threat Intelligence Integration: Configured a threat intelligence feed to detect and generate alerts for Indicators of Compromise (IoCs).
+- Event Logging and Alert Configuration: Established data connectors and created custom alert rules to monitor successful RDP sign-ins and other critical security events.
+- Practical Experience: Gained hands-on experience with real-time security monitoring, incident detection, and response within a simulated environment.
+- **Technologies Used: Microsoft Azure, Microsoft Sentinel, Log Analytics, Windows Server.**
 
 [![The Office: Doomsday Device](doomsday.png)](https://github.com/BBennett92/brandonbennett.io/blob/main/images/doomsdayproject.pdf)
 
