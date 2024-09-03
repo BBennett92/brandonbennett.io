@@ -4,9 +4,14 @@ layout: default
 
 ### **About Me**
 
+![Me](images/profilepng2.png)
+
 Experienced cybersecurity professional with extensive expertise across various domains of cybersecurity and information security. Proven track record in delivering systems administration, penetration testing, and IT support services to a broad client base, ensuring robust security and seamless operations. Proficient in documenting and implementing compliance controls for CIS v8, SOC 2, GDPR, ISO 27001, and PCI DSS, resulting in successful audits and certifications. Specializes in cloud security and systems administration with proficiency in Microsoft 365 and Apple Business Essentials. Skilled in conducting REST API and GraphQL web application penetration testing, identifying vulnerabilities, and fortifying clients' security posture.
 
 ### **Skills**
+
+![HackermanSkills](images/hackers-gif-preparing-to-hack.gif)
+
 
 - **Systems Administration:** Windows, Linux, MacOS, Android, iOS
 - **Penetration Testing:** REST API, GraphQL, Web Applications
@@ -97,6 +102,8 @@ Experienced cybersecurity professional with extensive expertise across various d
 - **Post-Exploitation & Reporting:** Secured sensitive data, maintained access, and documented the entire process with remediation steps and security recommendations.
 
 - **Technologies Used:** Nmap, netdiscover, FFuF, Signal Squirrel, Burp Suite, creedGEN, Wireshark, MySQL, netcat, Exiftool, Knock, cat, nano, Gobuster, ftp, SSH2John, JohnTheRipper, LFTP, Hydra.
+
+![CatHacker](images/cat-hacking.gif)
 
 ### **Contact Me**
 
