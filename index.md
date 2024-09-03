@@ -60,7 +60,7 @@ Experienced cybersecurity professional with extensive expertise across various d
 ### **Projects**
 
 #### **Microsoft Sentinel SIEM Deployment and Security Operations Center (SOC) Project**
-Description: Designed and implemented a Security Operations Center (SOC) using Microsoft Azure, focusing on real-time threat detection and incident response.
+**Description:** Designed and implemented a Security Operations Center (SOC) using Microsoft Azure, focusing on real-time threat detection and incident response.
 
 **Key Components:**
 
@@ -74,11 +74,11 @@ Description: Designed and implemented a Security Operations Center (SOC) using M
 
 - **Practical Experience:** Gained hands-on experience with real-time security monitoring, incident detection, and response within a simulated environment.
 
-- ##### **Technologies Used:** Microsoft Azure, Microsoft Sentinel, Log Analytics, Windows Server.
+- **Technologies Used:** Microsoft Azure, Microsoft Sentinel, Log Analytics, Windows Server.
 
 
 #### **The Office: Doomsday Device CTF Walkthrough**
-Description: Conducted a comprehensive walkthrough of the CTF vulnerable machine "The Office: Doomsday Device," focusing on penetration testing, exploitation, and privilege escalation.
+**Description:** Conducted a comprehensive walkthrough of the CTF vulnerable machine "The Office: Doomsday Device," focusing on penetration testing, exploitation, and privilege escalation.
 
 [![The Office: Doomsday Device](doomsday.png)](https://github.com/BBennett92/brandonbennett.io/blob/main/images/doomsdayproject.pdf)
 
