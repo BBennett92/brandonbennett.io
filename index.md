@@ -85,6 +85,7 @@ Experienced cybersecurity professional with extensive expertise across various d
 #### **The Office: Doomsday Device CTF Walkthrough**
 **Description:** Conducted a comprehensive walkthrough of the CTF vulnerable machine "The Office: Doomsday Device," focusing on penetration testing, exploitation, and privilege escalation.
 
+##### - [The Office: Doomsday Device](https://github.com/BBennett92/brandonbennett.io/blob/main/images/doomsdayproject.pdf) **CLICK ME FOR WALKTHROUGH PDF!**
 [![The Office: Doomsday Device](doomsday.png)](https://github.com/BBennett92/brandonbennett.io/blob/main/images/doomsdayproject.pdf)
 
 **Key Components:**
