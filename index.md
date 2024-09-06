@@ -27,21 +27,28 @@ Experienced cybersecurity professional with extensive expertise across various d
 **Role:** Cybersecurity Analyst, Penetration Tester, Systems Administrator
 
 - Delivered comprehensive systems administration, penetration testing, and IT support across Windows, Linux, macOS, iOS, and Android platforms, ensuring secure and efficient operations. Implemented security best practices and resolved hardware/software issues to protect client systems from emerging threats.
+  
 - Managed client endpoints and inboxes with Microsoft 365 (including Azure AD, Intune, Exchange, SharePoint, OneDrive, Defender, Teams) and Apple Business Essentials, including the creation, management, and deletion of user accounts. Enhanced productivity and security by implementing SAML/SSO, geo-location blacklisting, and Multi-factor Authentication (MFA) for secure sign-ins.
+  
 - Conducted contract-based and quarterly penetration tests, including REST API and GraphQL web applications, identifying vulnerabilities and enhancing clients' security postures. Leveraged OWASP Top 10 as a framework to identify 30+ server/client-side vulnerabilities, including DOM-based, stored, and reflected XSS, NoSQL injections, broken access controls (e.g., CSRF, open redirect, improper access controls), and other security misconfigurations.
+  
 - Implemented compliance controls for CIS v8, SOC 2, PCI DSS, GDPR, and ISO 27001, leading to successful client audits and certifications. Strengthened cloud environments with data loss prevention and conditional access policies.
 
 #### **Proof of Reception (May 2023 – Present)**
 **Role:** Prompt Engineer (Part-time Internship)
 
 - Software Development Lifecycle (SDLC) experience, ability to collaborate and communicate and work effectively in a cross-functional team environment.
+  
 - Analyze code, remediate vulnerabilities, and improve overall application security.
+  
 - Optimize existing code, write new functions, and create artwork utilizing prompts using various large language models such as GPT-4, PaLM 2 and StableLM.
+  
 - Tools: ChatGPT, Google Bard, DALL-E, Stable Diffusion, Microsoft Copilot
 
 ### **Education**
 
 #### **Woz-U, Cybersecurity**
+
 - **GPA:** 4.0
 - Completed a comprehensive cybersecurity program, gaining in-depth knowledge and hands-on experience in areas such as penetration testing, cloud security, compliance frameworks (CIS v8, SOC 2, GDPR, ISO 27001, PCI DSS), and incident response. Excelled in practical labs and projects, developing advanced skills in network security, vulnerability assessment, and secure systems administration.
 
